@@ -1,10 +1,14 @@
 # Test
 
-This repository contains a minimal React setup created manually. To get started:
+This repository contains a small React project demonstrating a basic CRUD (Create, Read, Update, Delete) interface. The app lets you add items, edit their text and remove them from the list.
+
+## Getting started
+
+Install dependencies and run the development server:
 
 ```bash
 npm install
 npm start
 ```
 
-This will install dependencies and launch the development server.
+The application will be available at `http://localhost:3000`.
